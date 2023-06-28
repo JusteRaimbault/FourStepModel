@@ -1,0 +1,3 @@
+[submodule "Models/TransportModel"]
+	path = Models/TransportModel
+	url = git@github.com:umrlastig/TransportModel.git
